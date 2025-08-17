@@ -21,8 +21,11 @@ The analysis was conducted to answer four key questions from leadership (CEO & C
 
 ##  Repository Structure
 Data/` – https://github.com/Rabin-coder09/Online_Retail_Analysis-PowerBI/blob/main/Online%20Retail%20Data%20Set.xlsx
+
 Reports/` – https://github.com/Rabin-coder09/Online_Retail_Analysis-PowerBI/blob/main/Online%20Retail%20Data%20Set%20Data%20Visuals.pbix
+
 Visuals/` – https://github.com/Rabin-coder09/Online_Retail_Analysis-PowerBI/blob/main/OnlineRetail%20powerBi.png
+
 ## How to Use
 1. Open the Power BI file (`Online Retail Data Set Data Visuals.pbix`) in Power BI Desktop.
 2. Explore each questions (Q1–Q4).
